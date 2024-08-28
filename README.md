@@ -46,6 +46,7 @@ Open a web browser and navigate to http://localhost:3000 to view the web applica
 
 
 ![Screenshot 2024-08-18 180237](https://github.com/user-attachments/assets/280f4aa6-76dc-4c96-a317-fd900890dfda)
+![Screenshot 2024-08-18 180253](https://github.com/user-attachments/assets/57363d25-168f-48db-b5d6-fae298909d77)
 
 
 
