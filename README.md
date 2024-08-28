@@ -3,6 +3,7 @@ Phontiqe: A 2-Tier Web Application
 
 
 
+
 Phontiqe is a 2-tier web application built using Node.js and Express. This repository contains the source code for the application, which consists of a frontend and a backend tier.
 
 
@@ -82,6 +83,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 
 Author
+
+
+
+
+
 [Anas]
 
 
