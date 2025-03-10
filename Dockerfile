@@ -14,7 +14,7 @@ RUN npm install
 # Copy the rest of the application files
 COPY . .
 #copy  the public directory to the root
-COPY ./client/public /public   # this use in k8s before k8s  it's not included 
+COPY ./client/public /public  
 # Expose the port the app will run on
 EXPOSE 3000
 
