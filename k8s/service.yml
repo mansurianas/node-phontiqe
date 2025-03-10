@@ -10,3 +10,6 @@ spec:
     - protocol: TCP
       targetPort: 3000
       port: 3000
+      nodePort: 30001  # Specify a NodePort range (usually between 30000 and 32767)
+  type: NodePort  # Add this line to expose it via NodePort
+
